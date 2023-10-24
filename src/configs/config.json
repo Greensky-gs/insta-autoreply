@@ -1,0 +1,4 @@
+{
+    "trainFile": "dist/configs/train.jsonl",
+    "updatefile": true
+}
